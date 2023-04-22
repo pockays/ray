@@ -1,0 +1,8 @@
+com\ray\controller\LoginController.class
+com\ray\controller\ArticleController.class
+com\ray\BlogAdminApplication.class
+com\ray\config\SecurityConfig.class
+com\ray\controller\UploadController.class
+com\ray\filter\JwtAuthenticationTokenFilter.class
+com\ray\controller\CategoryController.class
+com\ray\controller\TagController.class
